@@ -13,4 +13,3 @@ print(t1)
 t = ['d', 'c', 'e', 'b', 'a']
 t.sort()
 print(t)
-#teste
